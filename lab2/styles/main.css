@@ -1,0 +1,56 @@
+:root {
+    --primary-color: #5c1111;
+}
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    background-color: #b28282;
+}
+h1 {
+    color: var(--primary-color);
+    font-size: 2em;
+    text-align: center;
+}
+h2 {
+
+    color: rgb(156, 18, 18);
+
+    font-size: 1.5em;
+
+}
+p {
+    line-height: 1.5;
+}
+.important {
+    font-weight: bold;
+    font-style: italic;
+}
+#copyright {
+    text-align: center;
+}
+footer p {
+    text-align: right;
+}
+img {
+    float: left;
+    margin-right: 20px;
+}
+main {
+    clear: both;
+}
+a:link {
+    color: rgb(128, 20, 51);
+}
+a:visited {
+    color: purple;
+}
+a:hover,
+a:focus {
+    color: rgb(211, 37, 37);
+}
+li:first-child {
+    font-weight: bold;
+}
+li:last-child {
+    font-style: italic;
+}

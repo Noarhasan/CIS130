@@ -1,0 +1,41 @@
+AI Tool: ChatGPT
+
+Planning Prompt:
+My topic is Persian cats. Using the CIS-130 Lab 3 requirements, make a simple plan for my two-page website. The first page will be index.html and the second page will be details.html. Tell me what content should go on each page and give me a file/folder checklist. The website will use HTML and one external CSS stylesheet. Keep the plan beginner-friendly and only use HTML and CSS concepts that a CIS-130 student would have learned. Do not write HTML or CSS yet. Do not suggest JavaScript, frameworks, Bootstrap, Tailwind, Flexbox, or Grid.
+Main CLEAR Website-Building Prompt:
+
+I am a beginner CIS-130 student creating a two-page website about Persian cats. My goal is to create a simple website that demonstrates the HTML and CSS skills required for Lab 3. The project must contain index.html, details.html, styles/main.css, an images folder with my own Persian cat image, and ai-log.txt.
+
+For the HTML, include semantic header, navigation, main, section, and footer elements. Each page must have exactly one h1. The index page must have at least two h2 elements, paragraphs, strong and em elements, an unordered list, an ordered list, an external link with descriptive text, relative links between the two pages, an image with useful alt text, and an HTML character entity.
+
+For the CSS, use one external stylesheet shared by both pages. Include body, h1, h2, and additional type selectors; a class selector; an ID selector; a descendant selector; link :hover and :focus pseudo-classes; a hexadecimal color; %, em, and px measurements; a font stack with fallback fonts; font size; font weight or style; line height; text alignment; margins or padding; a visible border; float; clear; a CSS custom property; and var().
+
+Keep the code beginner-friendly and use only HTML and CSS. Do not use JavaScript, Bootstrap, Tailwind, Flexbox, Grid, or inline CSS. Explain the code briefly so I can understand and review it before using it. Generate only the requested file and do not create extra files or features.
+Adaptive Prompt:
+
+I already created my two-page Persian cat website using HTML and CSS. The website is about my two Persian cats, Mimi and Miro. I want to improve the existing website without making it too advanced for a beginner CIS-130 student.
+
+Review the existing project requirements and suggest small improvements that make the pages clearer, more organized, and visually consistent. Keep the existing structure and beginner-level HTML and CSS. Do not use JavaScript, frameworks, Bootstrap, Tailwind, Flexbox, or Grid.
+
+Focus on improvements to the layout, colors, borders, spacing, images, navigation, and readability. Explain each suggested change before giving any code. Do not rewrite the entire project.
+Debugging and Code Review Prompt:
+
+Review my existing CIS-130 Lab 3 website code for HTML and CSS errors or problems. Check the code for incorrect file paths, broken relative links, missing required elements, invalid or unnecessary CSS, and beginner-level mistakes.
+
+Compare the code with the Lab 3 requirements and identify anything that may be missing or not working correctly. Do not rewrite the entire website. For each issue, explain what is wrong and suggest a small correction that I can make myself.
+
+Keep the review beginner-friendly. Do not suggest JavaScript, frameworks, Bootstrap, Tailwind, Flexbox, or Grid.
+Agentic-Style Review Prompt:
+
+Act as a final reviewer for my CIS-130 Lab 3 website. Review the complete project as if you are checking it before submission.
+
+Check index.html, details.html, styles/main.css, the images folder, and ai-log.txt against the assignment requirements. Look for missing requirements, broken links or image paths, HTML or CSS problems, and anything that could cause issues during validation.
+
+Give me a checklist of what is complete and what still needs attention. Do not make changes automatically. Do not rewrite the project. Keep all suggestions beginner-friendly and limited to HTML and CSS.
+Reflection:
+
+Reflection:
+
+One useful contribution from AI was helping me organize the website requirements into a simple plan. AI also helped me understand how to include the required HTML and CSS features while keeping the website beginner-friendly.
+
+One weak choice in the initial AI suggestions was that the website could have looked too basic and generic. After reviewing the suggestions, I made my own changes to the project. I chose my own pink color scheme, changed the background and header colors, and added borders around the sections for Mimi and Miro. I also added a group photo of Mimi and Miro to the details page. These changes made the website feel more personal and better matched my project.
